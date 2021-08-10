@@ -1,0 +1,302 @@
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll.config
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.pdb
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe.config
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.rsp
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe.config
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.rsp
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.AppContext.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Console.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Http.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Sockets.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.ValueTuple.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe.config
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.rsp
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csprojAssemblyReference.cache
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CopyComplete
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.dll
+D:\WebApplication\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.pdb
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll.config
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.pdb
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe.config
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.rsp
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe.config
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.rsp
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.AppContext.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Collections.Immutable.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Console.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Globalization.Calendars.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Http.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Sockets.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.ValueTuple.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe.config
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.rsp
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe.config
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.Web.Infrastructure.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csprojAssemblyReference.cache
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CopyComplete
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.dll
+D:\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.pdb
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll.config
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.pdb
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe.config
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.rsp
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe.config
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.rsp
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.AppContext.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Collections.Immutable.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Console.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Globalization.Calendars.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Http.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Sockets.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.ValueTuple.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe.config
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.rsp
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe.config
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.AssemblyReference.cache
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CopyComplete
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.dll
+D:\VisualStudio\Others\My creating project\Web project\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.pdb
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll.config
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\AdvMasterDetails.pdb
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.exe.config
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csc.rsp
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.exe.config
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\csi.rsp
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.AppContext.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Collections.Immutable.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Console.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Globalization.Calendars.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Http.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Net.Sockets.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Reflection.Metadata.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.ValueTuple.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.exe.config
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\vbc.rsp
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\roslyn\VBCSCompiler.exe.config
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.Web.Infrastructure.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\EntityFramework.SqlServer.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Razor.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Deployment.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Webpages.Razor.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Helpers.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\System.Web.Mvc.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.AssemblyReference.cache
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CoreCompileInputs.cache
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.csproj.CopyComplete
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.dll
+F:\Lab_Test\AdvMasterDetails\AdvMasterDetails\obj\Debug\AdvMasterDetails.pdb
